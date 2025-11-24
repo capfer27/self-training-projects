@@ -8,3 +8,6 @@ _В этом репозитории собраны несколько проек
 
 **Простое приложение Crud на Vue JS и Spring Boot, PostgreSQL.** Ссылка на репозиторий: 
     https://github.com/capfer27/spring-boot-vuejs-crud-app-2025
+
+**Spring Boot API, JWT Аутентификации с интеграционами тестами с Testcontainers.** Ссылка на репозиторий:
+   https://github.com/capfer27/testing-java-apps
